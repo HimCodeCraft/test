@@ -2,3 +2,4 @@ hi this is my first file
 
 new bug fixed 1
 fix bug 2
+new line after connection
